@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Solórzano</h1>
 <h3 align="center">Future Software Developer.</h3>
 
-- 👨‍💻 Find my resume in [http://emmanuelsolorzano.com/](http://emmanuel.pythonanywhere.com/)
+- 👨‍💻 Find my resume in [emmanuelsolorzano.com](emmanuelsolorzano.com)
 
 - 📫 Contact me via email **emahumsol@hotmail.com**
 
